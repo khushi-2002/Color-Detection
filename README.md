@@ -16,4 +16,4 @@ Color_detection.py – main source code of our project.
 Colorpic.jpg – sample image for experimenting.
 Colors.csv – a file that contains our dataset.
 
-![image](/Color-Detection/colorpic.jpg)
+![image](/colorpic.jpg)
